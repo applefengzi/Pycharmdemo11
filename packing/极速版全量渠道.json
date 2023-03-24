@@ -1,0 +1,142 @@
+{
+	"defaultExtraInfo": {
+		"channel_name": "default",
+		"enable_ad": "true",
+		"isopen_autoupdate": "true",
+		"special_userkey": "false",
+		"imocha_ad": "true",
+		"isDEBUG": "false",
+		"enablePush": "true",
+		"version_flag": "0",
+		"shuzilm_state": "true",
+		"allow_only_read": "true"
+	},
+	"channelInfoList": [
+		{
+			"channel": "1966",
+			"extraInfo": {
+				"channel_name": "1966"
+			}
+		},
+		{
+			"channel": "2004",
+			"extraInfo": {
+				"channel_name": "2004"
+			}
+		},
+		{
+			"channel": "2006",
+			"extraInfo": {
+				"channel_name": "2006"
+			}
+		},
+		{
+			"channel": "2009",
+			"extraInfo": {
+				"channel_name": "2009"
+			}
+		},
+		{
+			"channel": "2011",
+			"extraInfo": {
+				"channel_name": "2011"
+			}
+		},
+		{
+			"channel": "2012",
+			"extraInfo": {
+				"channel_name": "2012"
+			}
+		},
+		{
+			"channel": "2021",
+			"extraInfo": {
+				"channel_name": "2021"
+			}
+		},
+		{
+			"channel": "2024",
+			"extraInfo": {
+				"channel_name": "2024"
+			}
+		},
+		{
+			"channel": "2026",
+			"extraInfo": {
+				"channel_name": "2026"
+			}
+		},
+		{
+			"channel": "2037",
+			"extraInfo": {
+				"channel_name": "2037"
+			}
+		},
+		{
+			"channel": "2043",
+			"extraInfo": {
+				"channel_name": "2043"
+			}
+		},
+		{
+			"channel": "3004",
+			"extraInfo": {
+				"channel_name": "3004"
+			}
+		},
+		{
+			"channel": "6001",
+			"extraInfo": {
+				"channel_name": "6001"
+			}
+		},
+		{
+			"channel": "6007",
+			"extraInfo": {
+				"channel_name": "6007"
+			}
+		},
+		{
+			"channel": "6010",
+			"extraInfo": {
+				"channel_name": "6010"
+			}
+		},
+		{
+			"channel": "6101",
+			"extraInfo": {
+				"channel_name": "6101"
+			}
+		},
+		{
+			"channel": "6102",
+			"extraInfo": {
+				"channel_name": "6102"
+			}
+		},
+		{
+			"channel": "6104",
+			"extraInfo": {
+				"channel_name": "6104"
+			}
+		},
+		{
+			"channel": "6109",
+			"extraInfo": {
+				"channel_name": "6109"
+			}
+		},
+		{
+			"channel": "6156",
+			"extraInfo": {
+				"channel_name": "6156"
+			}
+		},
+		{
+			"channel": "9023",
+			"extraInfo": {
+				"channel_name": "9023"
+			}
+		}
+	]
+}
